@@ -7,8 +7,9 @@
 * Android Native
 
 #### Description
-This app is created by me. Using the data in https://www.themoviedb.org/.
-This app will provide you with an upcoming, popular movie that you can easy to choose from.
+* This app is created by me.
+* Using the data in https://www.themoviedb.org/.
+* This app will provide you with an upcoming, popular movie that you can easy to choose from.
 
 #### Functions
 * Validate function
