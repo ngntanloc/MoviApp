@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviApp</string>
+    <string name="wrongFormatEmail">Wrong Format for Email</string>
+    <string name="fillBlank">Please fill all blank above</string>
+    <string name="similarPassword">Confirm password must be similar to password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

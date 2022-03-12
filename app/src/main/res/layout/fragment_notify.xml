@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#778BD9"
+    tools:context=".LauncherActivity">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/icBack"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ic_back" />
+
+    <ImageView
+        android:id="@+id/shapes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/shape" />
+
+    <TextView
+        android:id="@+id/titleSending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="160dp"
+        android:text="Sending"
+        android:textColor="@color/white"
+        android:textSize="45sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titleSending"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="20dp"
+        android:layout_marginTop="60dp"
+        android:text="Check your email sent from MovieApp and follow the link to completed the reset password process."
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnBackToLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/txtSignIn"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="101dp"
+        android:background="@drawable/round_button_signup"
+        android:fontFamily="sans-serif"
+        android:text="Back to login"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp" />
+
+    <TextView
+        android:id="@+id/txtSignIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="Already have an account? Login"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

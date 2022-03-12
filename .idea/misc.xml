@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MoviApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19814814814814816" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_back.xml" value="0.3212962962962963" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_back_black.xml" value="0.3387387387387387" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_discovery.xml" value="0.3387387387387387" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19814814814814816" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_profile.xml" value="0.3387387387387387" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/ic_watchlist.xml" value="0.19684684684684683" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/linear_bg.xml" value="0.22" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/round_button.xml" value="0.3212962962962963" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/round_button_login.xml" value="0.19684684684684683" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/round_button_signup.xml" value="0.19684684684684683" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/round_button_singup.xml" value="0.3212962962962963" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/round_shape.xml" value="0.352" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/shapes.xml" value="0.19684684684684683" />
+        <entry key="..\:/MoviApp/app/src/main/res/drawable/tag_genre.xml" value="0.195" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_details_movie.xml" value="0.22" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_discover.xml" value="0.33" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_forget_password.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_hone.xml" value="0.18" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_launcher.xml" value="0.18288288288288287" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_main.xml" value="0.2694746376811594" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_search_movie.xml" value="0.2" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_upcoming.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/activity_watchlist.xml" value="0.31261261261261264" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/cast_item.xml" value="0.33" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/discovery_item.xml" value="0.30315315315315317" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_code_validation.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_discover.xml" value="0.25" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_edit_profile.xml" value="0.25" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_email_validation.xml" value="0.18" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_new_password.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_notify.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_upcoming.xml" value="0.22" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/fragment_watchlist.xml" value="0.17" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/new_movie_item.xml" value="0.5" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/popular_movie_item.xml" value="0.31157407407407406" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/search_item.xml" value="0.33" />
+        <entry key="..\:/MoviApp/app/src/main/res/layout/upcoming_item.xml" value="0.15" />
+        <entry key="..\:/MoviApp/app/src/main/res/menu/navigation_bottom_menu.xml" value="0.3247747747747748" />
+        <entry key="..\:/MoviApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2648648648648649" />
+        <entry key="..\:/MoviApp/app/src/main/res/xml/network_security_config.xml" value="0.2747747747747748" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

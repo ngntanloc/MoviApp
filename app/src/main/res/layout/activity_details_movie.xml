@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsMovieActivity">
+
+    <ImageView
+        android:id="@+id/imgBackdrop"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/thor" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnBack"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_back" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/linear_bg"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:padding="2dp">
+
+            <Button
+                android:id="@+id/txt_genre1"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/tag_genre"
+                android:maxLength="8"
+                android:text="Crime"
+                android:textAllCaps="false"
+                android:textSize="10dp" />
+
+            <Button
+                android:id="@+id/txt_genre2"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/tag_genre"
+                android:maxLength="8"
+                android:text="Action"
+                android:textAllCaps="false"
+                android:textSize="10dp" />
+
+            <Button
+                android:id="@+id/txt_genre3"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/tag_genre"
+                android:maxLength="8"
+                android:text="Thriller"
+                android:textAllCaps="false"
+                android:textSize="10dp" />
+
+            <Button
+                android:id="@+id/txt_imdb"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/tag_imdb"
+                android:text="IMDb"
+                android:textAllCaps="false"
+                android:textColor="#455A64"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_imdbPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8.1"
+                android:textColor="#F3CE13"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+        <TextView
+
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:id="@+id/txt_movie_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="John Wick: Chapter 3"
+            android:textColor="#444444"
+            android:textSize="25dp" />
+
+        <TextView
+
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Story" />
+
+        <TextView
+
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:id="@+id/txt_description"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:text="John Wich is on the run for two reasons... he's being hunted for a global,,,"
+            android:textColor="#444444" />
+
+        <TextView
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/cast_recycler"
+            android:text="Cast"
+            android:textAllCaps="false" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_marginTop="10dp"
+            android:id="@+id/cast_recycler"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btnAddToWatchList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_button_login"
+            android:text="Add to watch list"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginTop="30dp"
+            android:textAllCaps="false"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="bottom"
+            android:textColor="@color/white"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

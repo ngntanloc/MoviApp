@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939299478638",
+    "project_id": "moviapp-3d13c",
+    "storage_bucket": "moviapp-3d13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939299478638:android:b3bf49dd07f9f5cb3b9a7f",
+        "android_client_info": {
+          "package_name": "com.example.moviapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939299478638-rge6o3lvv7vg63pbgohplmkf1itei7op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo-q6XVLBG2-IFRK77yATjkLoCRIH91c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939299478638-rge6o3lvv7vg63pbgohplmkf1itei7op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
