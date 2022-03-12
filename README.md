@@ -3,7 +3,7 @@
 ## You will find in this app the following stuff:
 #### Technology
 * Firebase
-* Restfull API
+* REST API
 * Android Native
 
 #### Description
