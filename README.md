@@ -19,7 +19,7 @@
 
 ### Image
 ## Validate user
-![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111016.png= 250x250)
+![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111016.png)
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111022.png)
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111029.png)
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111035.png)
