@@ -24,14 +24,6 @@
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111029.png)
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111035.png)
 
-<p align="center">
-  <img src="https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111016.png" width="256" height="455">
-  <img src="https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111022.png" width="256" height="455">
-  <img src="https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111029.png" width="256" height="455">
-   <img src="https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-111035.png" width="256" height="455">
-</p>
-
-
 ## App functions
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-110902.png)
 ![](https://github.com/ngntanloc/MoviApp/blob/main/Screenshot_20220325-110923.png)
